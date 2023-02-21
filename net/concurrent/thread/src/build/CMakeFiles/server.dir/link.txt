@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/server.dir/server.cpp.o -o /root/mikezheng/c++/net/concurrent/thread/bin/server  -lPool -lMysqlConn -lConnectionPool -ltpool -pthread -L/usr/lib/x86_64-linux-gnu -lmysqlclient -lz -lzstd -lssl -lcrypto -lresolv -lm -ljsoncpp 

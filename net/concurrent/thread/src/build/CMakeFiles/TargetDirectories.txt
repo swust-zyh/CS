@@ -1,0 +1,7 @@
+/root/mikezheng/c++/net/concurrent/thread/src/build/CMakeFiles/server.dir
+/root/mikezheng/c++/net/concurrent/thread/src/build/CMakeFiles/edit_cache.dir
+/root/mikezheng/c++/net/concurrent/thread/src/build/CMakeFiles/rebuild_cache.dir
+/root/mikezheng/c++/net/concurrent/thread/src/build/cgi/CMakeFiles/register.dir
+/root/mikezheng/c++/net/concurrent/thread/src/build/cgi/CMakeFiles/search.dir
+/root/mikezheng/c++/net/concurrent/thread/src/build/cgi/CMakeFiles/edit_cache.dir
+/root/mikezheng/c++/net/concurrent/thread/src/build/cgi/CMakeFiles/rebuild_cache.dir

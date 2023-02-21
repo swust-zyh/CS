@@ -1,0 +1,11 @@
+{
+	"ip": "127.0.0.1",
+	"port": 3306,
+	"user": "root",
+	"psd": "zhengyuhui326",
+	"dbName": "http_server_db",
+	"mnsz": 100,
+	"mxsz": 1024,
+	"waitTime": 1000,
+	"freeTime": 5000
+}

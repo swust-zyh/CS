@@ -1,0 +1,12 @@
+/usr/lib/libConnectionPool.so
+/usr/lib/libtpool.so
+/usr/lib/libPool.so
+/usr/lib/libMysqlConn.so
+/usr/local/etc/dbconf.json
+/usr/local/etc/tpoolconf.json
+/usr/local/share/html_docs/test.html
+/usr/local/share/html_docs/search.html
+/usr/local/share/html_docs/register.html
+/usr/local/share/html_docs/cgi/search
+/usr/local/share/html_docs/cgi/register
+/usr/local/share/html_docs/cgi/get.cgi

@@ -1,0 +1,6 @@
+/root/mikezheng/c++/net/concurrent/thread/build/CMakeFiles/edit_cache.dir
+/root/mikezheng/c++/net/concurrent/thread/build/CMakeFiles/rebuild_cache.dir
+/root/mikezheng/c++/net/concurrent/thread/build/CMakeFiles/list_install_components.dir
+/root/mikezheng/c++/net/concurrent/thread/build/CMakeFiles/install.dir
+/root/mikezheng/c++/net/concurrent/thread/build/CMakeFiles/install/local.dir
+/root/mikezheng/c++/net/concurrent/thread/build/CMakeFiles/install/strip.dir

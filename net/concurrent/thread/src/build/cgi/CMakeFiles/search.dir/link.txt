@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/search.dir/search.cpp.o -o /usr/local/share/html_docs/cgi/search  -lPool -lMysqlConn -lConnectionPool -pthread -L/usr/lib/x86_64-linux-gnu -lmysqlclient -lz -lzstd -lssl -lcrypto -lresolv -lm -ljsoncpp 

@@ -1,0 +1,5 @@
+{
+	"num_threads": 50,
+	// 0: Round_Robin, 1: Least_Load
+	"schd_algorithm": 0
+}
